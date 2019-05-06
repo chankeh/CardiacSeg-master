@@ -1,2 +1,2 @@
 # CardiacSeg-master
-Base on SegNet(FCN)，A new method of Cardiac Image Segmentation
+Base on SegNet，A new method of Cardiac Image Segmentation
